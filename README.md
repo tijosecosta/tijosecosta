@@ -13,15 +13,6 @@ O time de TI da Onne é dedicado à criação de soluções tecnológicas inovad
 
 ## 💼 Nossos Projetos
 
-### 1. [Projeto X](https://github.com/onne/projeto-x)
-Descrição do projeto X, um sistema de automação para melhorar a eficiência interna e otimizar processos dentro da empresa. Utiliza tecnologias como Python e Flask.
-
-### 2. [Sistema de Monitoramento](https://github.com/onne/sistema-monitoramento)
-Ferramenta desenvolvida para monitoramento em tempo real de infraestrutura e aplicações, utilizando Grafana e Prometheus.
-
-### 3. [Automação de Processos Internos](https://github.com/onne/automacao-processos)
-Automatizamos fluxos internos utilizando ferramentas de integração contínua e containers Docker, visando melhorar a escalabilidade e a confiabilidade dos serviços.
-
 ## 🛠 Nossa Abordagem
 
 Acreditamos em uma abordagem ágil e colaborativa, com ênfase em:
