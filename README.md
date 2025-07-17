@@ -2,15 +2,6 @@
 
 O time de TI da Onne é dedicado à criação de soluções tecnológicas inovadoras e escaláveis para impulsionar os negócios. Nosso objetivo é construir e manter sistemas robustos, seguros e eficientes para garantir a continuidade e evolução da empresa.
 
-## 🚀 Tecnologias que utilizamos
-
-- **Linguagens:** Python, JavaScript, Java
-- **Frameworks:** Flask, Django, React, Node.js
-- **Infraestrutura:** AWS, Docker, Docker, Nginx
-- **Banco de Dados:** PostgreSQL, MySQL, MongoDB
-- **DevOps:** GitLab CI/CD
-- **Ferramentas de Monitoramento:** Zabbix, Grafana
-
 ## 💼 Nossos Projetos
 
 ## 🛠 Nossa Abordagem
